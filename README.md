@@ -1,6 +1,6 @@
-# **Basic Client Examples to demonstrate Outbound Calls using Enablex Voice APIs. **
-This example contains instructions how users can initiate Outbound Calls.
+# Mastering Outbound Calls with EnableX Programmable Voice APIs: Comprehensive Guide
 
+Initiate Outbound Calls effortlessly with EnableX Programmable Voice APIs. Follow these steps: Clone the repository, configure environment variables, and set up webhooks for event notifications. Ensure SSL security for LISTEN_SSL. Make it work on Mac, Linux, or Windows. Easily create and manage outbound calls. Kickstart your voice communication with "client-outbound-videoroom.js" script. 
 
 ## Pre-requisite
 - You will need Enablex Application credentials, APP ID and APP KEY. To find credentials, register with EnableX (https://portal.enablex.io/cpaas/trial-sign-up/).
